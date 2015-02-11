@@ -35,3 +35,14 @@ var_dump($valid->passed());
 </body>
 </html> 
 ```
+
+**Available Rules:**
+- required
+- matches
+- min
+- max
+- alphanumeric
+- alpha
+- numeric
+- alpha_dash
+- valid_email
