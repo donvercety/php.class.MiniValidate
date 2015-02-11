@@ -1,5 +1,5 @@
 # php.class.MiniValidate v1.0
-Lightweight PHP form validation library. Easily extendable. 
+Lightweight PHP form validation library. Easily extendable.  
 Version 1.0
 
 **Simple usage:**
