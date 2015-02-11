@@ -6,7 +6,7 @@ $v = new Validate();
 $valid = $v->check($_POST, [
 	'username'   => ['required' => TRUE, 'min' => 6, 'alpha_dash' => TRUE],
 	'email   '   => ['required' => TRUE, 'valid_email' => TRUE],
-	'password'   => ['required' => TRUE, 'min' => 8,],
+	'password'   => ['required' => TRUE, 'min' => 8],
 	'repeatpass' => ['matches' => 'password'],
 ]);
 
