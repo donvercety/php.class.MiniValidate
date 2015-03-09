@@ -1,8 +1,8 @@
 <?php
 
 /**
- * Description of Validation
- *
+ * PHP Simple Validation Class
+ * v.1.0
  * @author Tommy Vercety
  */
 class Validate {
